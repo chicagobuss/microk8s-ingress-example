@@ -1,6 +1,6 @@
 # microk8s-ingress-example
 
-Microk8s ingress example - taken from [here](https://kndrck.co/posts/microk8s_ingress_example) ( [github](https://github.com/kendricktan/microk8s-ingress-example) ) and updated to work with k8s as of 2024/03
+Microk8s ingress example - taken from [here](https://kndrck.co/posts/microk8s_ingress_example) ([github](https://github.com/kendricktan/microk8s-ingress-example)) and updated to work with k8s as of 2024/03
 
 ## Steps
 1. Install MicroK8s
